@@ -1,7 +1,7 @@
 ## 👋 About Me
 
 Fresh graduate with a Bachelor's Degree in Information Technology (Creative IT).  
-Experienced in system development, enterprise IT support, and network infrastructure deployment through academic projects and internship experience.
+Experienced in system development, enterprise IT support, and network infrastructure deployment through part-time working, academic projects, freelancing and internship experience.
 
 ### 💻 Skills
 - Web Development (PHP, Laravel, HTML, CSS, JavaScript)
