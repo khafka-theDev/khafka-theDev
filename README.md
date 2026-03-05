@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**khafka-theDev/khafka-theDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fresh graduate with a Bachelor's Degree in Information Technology (Creative IT).  
+Experienced in system development, enterprise IT support, and network infrastructure deployment through academic projects and internship experience.
 
-Here are some ideas to get you started:
+### 💻 Skills
+- Web Development (PHP, Laravel, HTML, CSS, JavaScript)
+- Database Management (SQL)
+- Networking Basics & Infrastructure Deployment
+- Technical Troubleshooting
+- Basic Data Visualization (Power BI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Interests
+I am interested in opportunities related to:
+- Software Development
+- IT Support / System Administration
+- Networking & Infrastructure
+
+I am always eager to learn new technologies and improve my technical and problem-solving skills.
